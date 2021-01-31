@@ -1,8 +1,8 @@
 # qqimage2008
 QQ2008头像,QQ经典怀旧头像,QQ重置版头像
 
-
-![image](https://imgur.com/a/qy02LVp)
+![image]()
+![image](https://github.com/edifierdrew/qqimage2008/blob/main/20181216230341.jpg)
 
 
 
